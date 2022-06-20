@@ -18,7 +18,8 @@
       "no-console": [0],
       "arrow-body-style":[0],
       "prefer-arrow-callback":[0],
-      "react/function-component-definition": "Off"
+      "react/function-component-definition": "Off",
+      "no-unused-vars":"off"
     }
   }
   
